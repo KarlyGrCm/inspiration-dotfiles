@@ -1,4 +1,4 @@
-# Dotfiles (Cesar Gomez)
+# Dotfiles (Ivan Velasquez)
 
 My OS X dotfiles.
 
@@ -10,7 +10,7 @@ Tools](https://developer.apple.com/downloads) and may overwrite existing
 dotfiles in your HOME and `.dotfiles, .vim` directories.
 
 ```bash
-$ bash -c "$(curl -fsSL raw.github.com/cesargomez89/inspiration-dotfiles/master/bin/dotfiles)"
+$ bash -c "$(curl -fsSL raw.github.com/chukitow/inspiration-dotfiles/master/bin/dotfiles)"
 ```
 
 N.B. If you wish to fork this project and maintain your own dotfiles, you must
@@ -163,8 +163,8 @@ export PATH
 # Git credentials
 # Not under version control to prevent people from
 # accidentally committing with your details
-GIT_AUTHOR_NAME="Cesar Gomez"
-GIT_AUTHOR_EMAIL="cesargomez@example.com"
+GIT_AUTHOR_NAME="Ivan Velasquez"
+GIT_AUTHOR_EMAIL="ivan.velasquez@example.com"
 GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 # Set the credentials (modifies ~/.gitconfig)
