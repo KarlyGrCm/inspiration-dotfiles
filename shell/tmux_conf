@@ -81,3 +81,9 @@ set -g history-limit 10000
 
 # Local config
 if-shell "[ -f ~/.tmux.conf.user ]" 'source ~/.tmux.conf.user'
+
+# move to panes simulating vim keys
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
