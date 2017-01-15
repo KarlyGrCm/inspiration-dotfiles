@@ -41,3 +41,5 @@ load_dotfiles() {
 
 load_dotfiles
 unset load_dotfiles
+
+PATH=$PATH:~/.node/bin
