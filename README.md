@@ -1,4 +1,5 @@
-# Dotfiles (Ivan Velasquez)
+# Dotfiles (Karly García)
+### Forked from [link](https://github.com/chukitow/inspiration-dotfiles)chukitow/inspiration-dotfiles
 
 My OS X dotfiles.
 
@@ -10,7 +11,7 @@ Tools](https://developer.apple.com/downloads) and may overwrite existing
 dotfiles in your HOME and `.dotfiles, .vim` directories.
 
 ```bash
-$ bash -c "$(curl -fsSL raw.github.com/chukitow/inspiration-dotfiles/master/bin/dotfiles)"
+$ bash -c "$(curl -fsSL raw.github.com/KarlyGrCm/inspiration-dotfiles/master/bin/dotfiles)"
 ```
 
 N.B. If you wish to fork this project and maintain your own dotfiles, you must
