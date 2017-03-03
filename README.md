@@ -1,5 +1,5 @@
 # Dotfiles (Karly García)
-### Forked from [link](https://github.com/chukitow/inspiration-dotfiles)chukitow/inspiration-dotfiles
+### Forked from [chukitow/inspiration-dotfiles](https://github.com/chukitow/inspiration-dotfiles)
 
 My OS X dotfiles.
 
